@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 27.414">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4dc95b;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #298430;
+      }
+    </style>
+  </defs>
+  <g id="comment-icon" transform="translate(0 -2.5)">
+    <path id="Path_13" data-name="Path 13" class="cls-1" d="M.855,12.5A.855.855,0,0,0,0,13.355V34.741L4.138,30.6H22.421a.855.855,0,0,0,.855-.855V13.355a.855.855,0,0,0-.855-.855Z" transform="translate(0 -4.828)"/>
+    <path id="Path_14" data-name="Path 14" class="cls-2" d="M15.724,22.534H9.517a.517.517,0,1,1,0-1.034h6.207a.517.517,0,1,1,0,1.034Z" transform="translate(-4.345 -9.172)"/>
+    <path id="Path_15" data-name="Path 15" class="cls-2" d="M22.448,29.534H9.517a.517.517,0,1,1,0-1.034H22.448a.517.517,0,0,1,0,1.034Z" transform="translate(-4.345 -12.552)"/>
+    <path id="Path_16" data-name="Path 16" class="cls-2" d="M22.448,36.534H9.517a.517.517,0,0,1,0-1.034H22.448a.517.517,0,0,1,0,1.034Z" transform="translate(-4.345 -15.931)"/>
+    <path id="Path_17" data-name="Path 17" class="cls-3" d="M35.421,2.5H13.855A.855.855,0,0,0,13,3.355V7.672H28.7a.855.855,0,0,1,.855.855V20.6h5.869a.855.855,0,0,0,.855-.855V3.355A.855.855,0,0,0,35.421,2.5Z" transform="translate(-6.276 0)"/>
+  </g>
+</svg>

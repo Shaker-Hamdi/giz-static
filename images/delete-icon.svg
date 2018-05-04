@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14.016 18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ed1a3b;
+      }
+    </style>
+  </defs>
+  <path id="delete-icon" class="cls-1" d="M.984-2.016v-12h12v12A1.945,1.945,0,0,1,12.4-.586,1.891,1.891,0,0,1,11.016,0H3A1.945,1.945,0,0,1,1.57-.586,1.945,1.945,0,0,1,.984-2.016Zm13.031-15V-15H0v-2.016H3.516L4.5-18H9.516l.984.984Z" transform="translate(0 18)"/>
+</svg>

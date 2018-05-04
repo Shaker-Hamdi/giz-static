@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1632.439 2395.439 11.414 6.653">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #151515;
+        stroke: #151515;
+      }
+    </style>
+  </defs>
+  <path id="select-arrow" class="cls-1" d="M14.384,0l-.238.238L18.908,5,14.146,9.762l.238.238,5-5Z" transform="translate(-1621.732 2382) rotate(90)"/>
+</svg>
